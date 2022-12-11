@@ -10,5 +10,9 @@ public class BankApplication {
 		SpringApplication.run(BankApplication.class, args);
 	}
 
+	public void doProcess(){
+		//do process
+	}
+
 }
 //sample comment
